@@ -2,6 +2,7 @@ ActionController::Routing::Routes.draw do |map|
   map.signup '/signup', :controller => 'users', :action => 'create', :conditions => { :method => :post}
   map.signup '/signup', :controller => 'users', :action => 'new', :conditions => { :method => :get}
   map.resource :account, :controller => 'users'
+  map.resource :user_session #, :controller => 'users'
 
   map.login '/login', :controller => 'user_sessions', :action => 'create', :conditions => { :method => :post}
   map.login '/login', :controller => 'user_sessions', :action => 'new', :conditions => { :method => :get}
