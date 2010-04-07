@@ -9,6 +9,7 @@ class User < ActiveRecord::Base
   end
 
   def fill_twitter_username
+    
     if login.blank?
       self.login = self.twitter_profile['screen_name']
     end
