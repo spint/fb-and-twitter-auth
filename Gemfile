@@ -7,7 +7,7 @@ gem "sqlite3-ruby", :require => "sqlite3"
 #gem "authlogic"
 
 gem "haml"
-#gem "facebooker"
+gem "facebooker"
 gem "oauth"
 #gem "authlogic-oauth", :lib => "authlogic_oauth"
 
