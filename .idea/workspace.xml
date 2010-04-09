@@ -54,7 +54,7 @@
       <file leaf-file-name="new.html.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/user_sessions/new.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="303" selection-end="346" vertical-scroll-proportion="-14.384615">
+            <state line="18" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="-15.230769">
               <folding />
             </state>
           </provider>
@@ -69,19 +69,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.html.haml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="new.html.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/users/new.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="37" selection-start="267" selection-end="267" vertical-scroll-proportion="-11.0">
+            <state line="13" column="35" selection-start="227" selection-end="263" vertical-scroll-proportion="0.2826087">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.19565217">
+            <state line="9" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="-7.6153846">
               <folding />
             </state>
           </provider>
@@ -101,10 +101,10 @@
         <option value="$PROJECT_DIR$/config/environment.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20100409130819_add_facebook_connect_fields_to_user.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
-        <option value="$PROJECT_DIR$/app/views/user_sessions/new.html.haml" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
-        <option value="$PROJECT_DIR$/app/views/users/new.html.haml" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/views/user_sessions/new.html.haml" />
+        <option value="$PROJECT_DIR$/app/views/users/new.html.haml" />
       </list>
     </option>
   </component>
@@ -556,23 +556,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="-7.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/user_sessions/new.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="303" selection-end="346" vertical-scroll-proportion="-14.384615">
+        <state line="18" column="0" selection-start="304" selection-end="304" vertical-scroll-proportion="-15.230769">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/new.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="37" selection-start="267" selection-end="267" vertical-scroll-proportion="-11.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.19565217">
+        <state line="13" column="35" selection-start="227" selection-end="263" vertical-scroll-proportion="0.2826087">
           <folding />
         </state>
       </provider>
