@@ -1,0 +1,12 @@
+development:
+  api_key: d392ba6eed6612906e524600b89eb0ba
+  secret_key: 33977c75dd1ca4f8f67a978f5c3df038
+  canvas_page_name: streamtails
+  callback_url: http://st-auth-test-23.heroku.com
+ 
+
+production:
+  api_key: d392ba6eed6612906e524600b89eb0ba
+  secret_key: 33977c75dd1ca4f8f67a978f5c3df038
+  canvas_page_name: streamtails
+  callback_url: http://st-auth-test-23.heroku.com

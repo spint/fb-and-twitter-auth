@@ -12,6 +12,12 @@
   <component name="GemRequirementsHolder" version="2">
     <requirement>
       <requirement>
+        <dependency name="facebooker" version="0" bound="GREATER_OR_EQUAL" />
+      </requirement>
+      <source from="config/environment.rb" />
+    </requirement>
+    <requirement>
+      <requirement>
         <dependency name="haml" version="0" bound="GREATER_OR_EQUAL" />
       </requirement>
       <source from="Gemfile" />
@@ -56,6 +62,8 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] activerecord (v2.3.5, /Library/Ruby/Gems/1.8/gems/activerecord-2.3.5)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] ruby-hmac (v0.4.0, /Users/stijnp/.gem/ruby/1.8/gems/ruby-hmac-0.4.0)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] oauth (v0.3.6, /Users/stijnp/.gem/ruby/1.8/gems/oauth-0.3.6)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] facebooker (v1.0.67, /Library/Ruby/Gems/1.8/gems/facebooker-1.0.67)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] json_pure (v1.2.0, /Library/Ruby/Gems/1.8/gems/json_pure-1.2.0)" level="application" />
   </component>
 </module>
 

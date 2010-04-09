@@ -36,6 +36,7 @@ Rails::Initializer.run do |config|
   config.time_zone = 'UTC'
 
   config.gem "oauth"
+  config.gem "facebooker"
   #config.gem "authlogic-oauth", :lib => "authlogic_oauth"
 
 
