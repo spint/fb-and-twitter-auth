@@ -25,7 +25,8 @@ ActiveRecord::Schema.define(:version => 20100409130819) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "name"
-    t.integer  "facebook_uid",      :limit => 8
+    t.integer  "facebook_uid",         :limit => 8
+    t.string   "facebook_session_key"
   end
 
 end
