@@ -16,7 +16,6 @@
   currently logged in
   %br
   %br
-  = @test
  
 - if !current_user
   = link_to "Register", new_account_path  
@@ -24,10 +23,11 @@
   = link_to "Log In", new_user_session_path
   |
 - else
-  = link_to "My Account", account_path(current_user.id)
+  = link_to "My Account", account_path
   |
   = link_to "Logout", {:controller => :user_sessions, :action => :destroy}, :method => :delete, :confirm => "Are you sure you want to logout?"
- 
+  |
+  = link_to "Delete Account", account_path, :method => :delete
 %p{:style => "color: green;"}
   = flash[:notice]
 

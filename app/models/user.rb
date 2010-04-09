@@ -8,12 +8,12 @@ class User < ActiveRecord::Base
 
   def before_connect(facebook_session)
     self.login = facebook_session.user.name
-    puts "***********************************************"
-    puts "***********************************************"
-    puts facebook_session.inspect
-    puts facebook_session.user.inspect
-    puts "***********************************************"
-    puts "***********************************************"
+#    puts "***********************************************"
+#    puts "***********************************************"
+#    puts facebook_session.inspect
+#    puts facebook_session.user.inspect
+#    puts "***********************************************"
+#    puts "***********************************************"
   end
 
 
